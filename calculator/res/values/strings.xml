@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="val1">Enter the Value 1</string>
+    <string name="val2">Enter the Value 2</string>
+    <string name="add">ADD</string>
+    <string name="zeo">0</string>
+    <string name="del">DEL</string>
+    <string name="delete_lbl">DEL</string>
+    <string name="clear_lbl">CLR</string>
+    <string name="exit_lbl">Exit</string>
+</resources>
